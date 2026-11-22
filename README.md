@@ -37,3 +37,11 @@ The script prints dataset summaries, grouped analysis, monthly sales and correla
 - Monthly sales trend
 - Correlation and outlier exploration
 - Seven insight statements and business recommendations
+
+## Author
+
+Purushottam Yadav
+
+BCA Student | Aspiring Data Analyst
+
+GitHub: https://github.com/purushotam-yadav
