@@ -40,7 +40,7 @@ The script prints dataset summaries, grouped analysis, monthly sales and correla
 
 ## Author
 
-Purushottam Yadav
+Purushotam Yadav
 
 BCA Student | Aspiring Data Analyst
 
